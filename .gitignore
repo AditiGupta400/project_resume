@@ -1,0 +1,4 @@
+postings.csv
+*.csv
+__pycache__/
+*.pyc
